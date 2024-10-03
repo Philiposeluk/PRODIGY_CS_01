@@ -18,22 +18,22 @@ This Python program implements the Caesar Cipher algorithm for encrypting and de
 ## Installation
 
 1. Clone the repository to your local machine:
-      >bash
+   
 
        git clone https://github.com/Philiposeluk/PRODIGY_CS_01.git
    
 2. Navigate to the project directory:
-      >bash 
+   
       
        cd caesar_cipher
 ## Usage
 
-
-  
   Run the program using Python:
-   >bash
+      
+  
 
-    python caesar_cipher.py
+
+       python caesar_cipher.py
 
 ## Input
 
@@ -48,6 +48,8 @@ when prompted, enter the following:
 
 ## Example 
 
+To encrypt 
+    
     Choose an action (e)ncrypt or (d)ecrypt and (q to quit): e
     Enter your message: Hello, World!  
     Enter shift value: 3
@@ -59,13 +61,6 @@ To decrypt:
     Enter your message: Khoor, Zruog!
     Enter shift value: 3
     Decrypted message: Hello, World!
-
-
-## Code Structure
- 
- - [caesar_cipher.py]: The main program file containing the encryption and decryption functions.
- 
- - [README.md]: This file.
 
 
 
